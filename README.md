@@ -32,6 +32,15 @@ high chance of spiders and worms
 ![TopDown](https://imgur.com/FLH4OAo.png "4")
 
 ---
+I am still hoping to add some custome behavior to this map but it may take a while before I can get to that.
+
+Versions:
+
+- <span style="color:Green">2.0.0 LethelLevelLoader version
+
+- 1.0.1 LethalExpansion version
+
+---
 
 Credits:
 
