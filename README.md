@@ -23,6 +23,9 @@ Warning. The company is not responsible for any Injuries and the warrenty of all
 
 ---
 
+![Player Ship location](https://github.com/FinnRobinSchniebel/Lethal-Relay-Station-Package/blob/main/shiploc.jpg)
+
+
 
 ---
 
