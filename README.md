@@ -23,8 +23,16 @@ Warning. The company is not responsible for any Injuries and the warrenty of all
 
 ---
 
-![Player Ship location](https://github.com/FinnRobinSchniebel/Lethal-Relay-Station-Package/blob/main/shiploc.jpg)
+![Player Ship location](https://imgur.com/3hdaOAv "1")
 
+![Entrance](https://imgur.com/K3zd1cz "2")
+
+![Hill](https://imgur.com/qxbFggy "3")
+
+![TopDown](https://imgur.com/FLH4OAo "4")
+
+
+Package Github Location: https://github.com/FinnRobinSchniebel/Lethal-Relay-Station-Package?tab=readme-ov-file 
 
 
 ---
