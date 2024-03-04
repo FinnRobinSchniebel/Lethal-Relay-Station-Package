@@ -1,0 +1,11 @@
+{
+  "name": "PowerRelayMoon",
+  "version_number": "2.0.0",
+  "website_url": "",
+  "description": "Adds a new moon to the game that is of modderate difficutly and varies in loot",
+  "dependencies": [
+    	"IAmBatby-LethalLevelLoader-1.1.6",
+	"Evaisa-LethalLib-0.11.1",
+	"BepInEx-BepInExPack-5.4.2100"
+  ]
+}
