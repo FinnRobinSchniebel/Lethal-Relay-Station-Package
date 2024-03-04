@@ -1,5 +1,5 @@
 
-# Relay Station Moon
+# <span style="color:Yellow">Relay Station Moon</span>
 
 An old power relay station that was overun a few years back. Mostly stable (we are not responsible for any exposure to harmful radiation). 
 
@@ -8,43 +8,39 @@ This mod adds a varying value moon that is meant for mid game, before you can af
 The main drawbacks with this planet are the long walk and the early outdoor monster spawns. 
 
 ---
-Difficulty: A
+Difficulty: <span style="color:red">A</span>
 
-Cost: 200
+Cost: <span style="color:lightblue">200
 
-Spawn between 15 and 30 scrap.
+Spawn between <span style="color:red">15</span> and <span style="color:lightblue">30</span> scrap.
 
 medium turret count
 high chance of spiders and worms
 
-2 Emergancy entrances.
+<span style="color:red">2</span> Emergancy entrances.
 
-Warning. The company is not responsible for any Injuries and the warrenty of all assets is voided. 
+<span style="color:red">Warning. The company is not responsible for any Injuries and the warrenty of all assets is voided. 
 
 ---
 
-![Player Ship location](https://imgur.com/3hdaOAv "1")
+![Player Ship location](https://i.imgur.com/3hdaOAv.jpg)
 
-![Entrance](https://imgur.com/K3zd1cz "2")
+![Entrance](https://i.imgur.com/K3zd1cz.png "2")
 
-![Hill](https://imgur.com/qxbFggy "3")
+![Hill](https://i.imgur.com/qxbFggy.png "3")
 
-![TopDown](https://imgur.com/FLH4OAo "4")
-
-
-Package Github Location: https://github.com/FinnRobinSchniebel/Lethal-Relay-Station-Package?tab=readme-ov-file 
-
+![TopDown](https://imgur.com/FLH4OAo.png "4")
 
 ---
 
 Credits:
 
-IAmBatBy: than you from making LLL. It is an amazing tool.
+IAmBatBy: than you from making LethalLevelLoader. It is an amazing tool.
 
 Audio Knight: for making a tutorial video. Without It I would still be stuck finding packages. 
 
 
-Here are the assets I used:
+Here are the unity assets I used:
 
 - https://assetstore.unity.com/packages/2d/textures-materials/floors/pbr-sand-materials-free-160123
 - https://assetstore.unity.com/packages/2d/textures-materials/nature/sandy-rock-materials-137089
